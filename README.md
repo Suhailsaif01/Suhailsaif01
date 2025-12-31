@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently doing skills development <br>I'm looking to collaborate with data<br>I'm looking for help in react.js<br>I'm currently learnnig React.js, HTML, CSS, Javascript<br> 
+I'm currently improving my skills <br>I'm looking to collaborate with data<br>I'm looking for help in react.js<br>I'm currently learnnig React.js, HTML, CSS, Javascript<br> 
 
 
 ## 🌐 Socials:
